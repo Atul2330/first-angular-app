@@ -1,0 +1,104 @@
+{
+    "locations": [
+    {
+        "id": 0,
+        "name": "Sterling Hotel",
+        "city": "Darjeeling",
+        "state": "WB",
+        "photo": "https://www.sterlingholidays.com/resorts/herobanner/may2023/sterling-darjeeling.jpg",
+        "availableUnits": 4,
+        "wifi": true,
+        "laundry": true
+      },
+      {
+        "id": 1,
+        "name": "Central Heritage Resort Spa",
+        "city": "Darjeeling",
+        "state": "WB",
+        "photo": "https://pix8.agoda.net/hotelImages/535835/-1/da2ac6d880862389dbd41e71c74940b6.jpg?ca=17&ce=1&s=1024x768",
+        "availableUnits": 0,
+        "wifi": false,
+        "laundry": true
+      },
+      {
+        "id": 2,
+        "name": "Ramada Hotel",
+        "city": "Darjeeling",
+        "state": "WB",
+        "photo": "https://www.wyndhamhotels.com/content/dam/property-images/en-us/ra/in/others/darjeeling/48245/48245_exterior_view_2.jpg?crop=3000:2000;*,*&downsize=1800:*",
+        "availableUnits": 1,
+        "wifi": false,
+        "laundry": false
+      },
+      {
+        "id": 3,
+        "name": "Istana Resort and Spa",
+        "city": "Jalapahar",
+        "state": "WB",
+        "photo": "https://pix8.agoda.net/hotelImages/27924818/-1/12b7f106463ed2a1c1ba9b6f1d939c7d.jpg?ce=0&s=1024x768",
+        "availableUnits": 1,
+        "wifi": true,
+        "laundry": false
+      },
+      {
+        "id": 4,
+        "name": "Summit Bougainvillea Tea Resort",
+        "city": "Kurseong",
+        "state": "WB",
+        "photo": "https://pix8.agoda.net/hotelImages/40293697/-1/d881f04d9c61b475acc02b0aeba1476c.jpg?ce=0&s=1024x768",
+        "availableUnits": 1,
+        "wifi": true,
+        "laundry": false
+      },
+      {
+        "id": 5,
+        "name": "Mayfair Resort",
+        "city": "Darjeeling",
+        "state": "WB",
+        "photo": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/209359470.jpg?k=f81d2edef54ac16c68e79608a57ef8f676c79afd8e3f06da6aeb02d0225dac01&o=",
+        "availableUnits": 2,
+        "wifi": true,
+        "laundry": true
+      },
+      {
+        "id": 6,
+        "name": "Sourenee Tea Estate",
+        "city": "Mirik",
+        "state": "WB",
+        "photo": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/233706313.jpg?k=12c6e58723ef70170d6d9b4f2ffd888f8a88dd1729d9eb88f3ac4bb81f69d7ac&o=",
+        "availableUnits": 5,
+        "wifi": true,
+        "laundry": true
+      },
+      {
+        "id": 7,
+        "name": "The Dew Drop HomeStay",
+        "city": "Kurseong",
+        "state": "WB",
+        "photo": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/416275277.jpg?k=45058ea76d7071ac9e10eba7d51d4ac821ffc400687e6f4a74e5021394b4fb93&o=",
+        "availableUnits": 2,
+        "wifi": true,
+        "laundry": true
+      },
+      {
+        "id": 8,
+        "name": "Pine Tree Spa Resort",
+        "city": "Darjeeling",
+        "state": "WB",
+        "photo": "https://pix8.agoda.net/hotelImages/1047270/-1/0aa799de1a4e3cb3b5c81bab3ae638a8.jpg?ca=9&ce=1&s=1024x768",
+        "availableUnits": 10,
+        "wifi": false,
+        "laundry": false
+      },
+      {
+        "id": 9,
+        "name": "The Cinderalla Hotel",
+        "city": "Siliguri",
+        "state": "WB",
+        "photo": "https://pix8.agoda.net/hotelImages/17030449/-1/44680b184d75278077e0ba424b77b163.jpg?ca=21&ce=0&s=1024x768",
+        "availableUnits": 6,
+        "wifi": true,
+        "laundry": true
+      }
+    ]
+}

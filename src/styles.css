@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Georgia', sans-serif;
+}
+:root {
+  --primary-color: #6bcd3a;
+  --secondary-color: #dc603a;
+  --accent-color: #cdccd3;
+  --shadow-color: #6d6b6b;
+}
+
+button.primary {
+  padding: 10px;
+  border: solid 1px var(--primary-color);
+  background: var(--primary-color);
+  color: white;
+  border-radius: 8px;
+}
